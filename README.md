@@ -1,2 +1,2 @@
-# java-sprint1-hw
-First sprint homework
+# report-processor
+Project for processing monthly and annual reports
